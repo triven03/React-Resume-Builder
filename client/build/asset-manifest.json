@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.676fa2d5.css",
+    "main.js": "/static/js/main.2244d64e.js",
+    "static/media/right-image.png": "/static/media/right-image.4c250489811e92c2cc1b.png",
+    "static/media/left-image.png": "/static/media/left-image.11940b7f330df3f0251e.png",
+    "static/media/slider-icon123.png": "/static/media/slider-icon123.20880491f55996066e37.png",
+    "static/media/td-4.png": "/static/media/td-4.d798e9663ae482c85293.png",
+    "static/media/td-1.png": "/static/media/td-1.8543527c665b0cfcfd83.png",
+    "static/media/td-2.png": "/static/media/td-2.192bacf58a54f30ff289.png",
+    "static/media/td-3.png": "/static/media/td-3.cf98bcca191a4129367e.png",
+    "static/media/slider-icon.png": "/static/media/slider-icon.5eaa8cc5f79b681544ea.png",
+    "static/media/header-bg.png": "/static/media/header-bg.a8306e8b941180df86cc.png",
+    "static/media/latest-work-bg.png": "/static/media/latest-work-bg.f1eb10deea13f742545e.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.f5dd7f5cd6ba1d689c32.png",
+    "static/media/biography-bg.png": "/static/media/biography-bg.a2c9a2485c5dca43ae54.png",
+    "static/media/customer-2.jpg": "/static/media/customer-2.0b0c883a0cf0122b085c.jpg",
+    "static/media/customer-1.jpg": "/static/media/customer-1.5d0d9b325d384ce27e72.jpg",
+    "index.html": "/index.html",
+    "main.676fa2d5.css.map": "/static/css/main.676fa2d5.css.map",
+    "main.2244d64e.js.map": "/static/js/main.2244d64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676fa2d5.css",
+    "static/js/main.2244d64e.js"
+  ]
+}
